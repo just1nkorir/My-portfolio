@@ -1,0 +1,48 @@
+nav{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+nav ul li{
+    display: inline;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-inline: 10px;
+    color: aliceblue;
+}
+nav h2{
+    font-size: x-large;
+    color: bisque;
+}
+body{
+    background-color: rgba(104, 36, 121, 0.486);
+}
+nav ul li:hover{
+    color: rgba(0, 255, 255, 0.692);
+}
+span{
+    color: rgb(187, 83, 123);
+}
+h1{
+    position: relative;
+    color: rgba(7, 211, 247, 0.719);
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+h1:hover{
+    color: antiquewhite;
+}
+p{
+    text-align: center;
+    font-size: larger;
+    color: beige;
+}
+header{
+    font-size: larger;
+    color: aquamarine;
+    text-align: center;
+}
